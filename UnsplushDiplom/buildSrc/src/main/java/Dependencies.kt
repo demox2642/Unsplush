@@ -1,3 +1,5 @@
+import kotlin.reflect.full.memberProperties
+
 object AndroidX {
     const val composeUiToolingPreview = "androidx.compose.ui:ui-tooling-preview:${Versions.compose}"
     const val composeUiTooling = "androidx.compose.ui:ui-tooling:${Versions.compose}"
@@ -8,7 +10,11 @@ object AndroidX {
     const val composeMaterialIconsExtended = "androidx.compose.material:material-icons-extended:${Versions.compose}"
     const val workRuntime = "androidx.work:work-runtime-ktx:${Versions.workVersion}"
     const val composeConstraint = "androidx.constraintlayout:constraintlayout-compose:${Versions.condtraint}"
-    const val constraint = "androidx.constraintlayout:constraintlayout:${Versions.condtraint}"
+  //  const val constraint = "androidx.constraintlayout:constraintlayout:${Versions.condtraint}"
+    fun getAll() = AndroidX::class.memberProperties
+        .filter { it.isConst }
+        .map { it.getter.call().toString() }
+        .toSet()
 }
 
 object Di {
@@ -28,12 +34,20 @@ object Accompanist {
 object Navigation {
     const val composeNavigation = "androidx.navigation:navigation-compose:${Versions.composeNavigationVersion}"
     const val hiltNavigation = "androidx.hilt:hilt-navigation-compose:1.0.0"
+    fun getAll() = Navigation::class.memberProperties
+        .filter { it.isConst }
+        .map { it.getter.call().toString() }
+        .toSet()
 }
 
 object Network {
     const val retrofit = "com.squareup.retrofit2:retrofit:${Versions.retrofitVersion}"
     const val retrofitConvertor = "com.squareup.retrofit2:converter-gson:${Versions.retrofitConvVersion}"
     const val loggingInterceptor = "com.squareup.okhttp3:logging-interceptor:${Versions.retrofitLoggerVersion}"
+    fun getAll() = Network::class.memberProperties
+        .filter { it.isConst }
+        .map { it.getter.call().toString() }
+        .toSet()
 }
 
 object Coroutines {

@@ -1,7 +1,7 @@
 package com.example.onboarding.ui
 
 import androidx.lifecycle.ViewModel
-import com.example.onboarding.R
+import com.example.presentation.onboarding.R
 import com.example.user.models.OnBoarding
 import com.example.user.usecase.onboarding.SaveOnboardingStateUserCase
 import dagger.hilt.android.lifecycle.HiltViewModel

@@ -11,6 +11,12 @@
       <module name="UnsplushDiplom.data.network" target="11" />
       <module name="UnsplushDiplom.data.profile" target="11" />
       <module name="UnsplushDiplom.data.user" target="11" />
+      <module name="UnsplushDiplom.domain.network" target="11" />
+      <module name="UnsplushDiplom.domain.network.main" target="11" />
+      <module name="UnsplushDiplom.domain.network.test" target="11" />
+      <module name="UnsplushDiplom.domain.user" target="11" />
+      <module name="UnsplushDiplom.domain.user.main" target="11" />
+      <module name="UnsplushDiplom.domain.user.test" target="11" />
       <module name="UnsplushDiplom.presentation.auth" target="11" />
       <module name="UnsplushDiplom.presentation.base-ui" target="11" />
       <module name="UnsplushDiplom.presentation.collections" target="11" />

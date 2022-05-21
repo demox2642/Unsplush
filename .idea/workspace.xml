@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0263f7fd-5e4b-402a-ad0a-86006cea720e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/buildSrcjar-classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/buildSrcjar-classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/constants.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/libs/buildSrc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/libs/buildSrc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/collections/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/collections/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/collections/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/collections/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/home/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/home/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/home/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/home/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/network/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/network/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/network/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/network/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/profile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/profile/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/profile/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/profile/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/user/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/user/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/data/user/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/data/user/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/auth/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/auth/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/auth/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/auth/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/base-ui/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/base-ui/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/base-ui/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/base-ui/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/collections/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/collections/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/collections/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/collections/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/home/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/home/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/home/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/home/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/onboarding/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/onboarding/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/onboarding/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/onboarding/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/profile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/profile/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnsplushDiplom/presentation/profile/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UnsplushDiplom/presentation/profile/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29NTyjV5mo97J4cbKetIn9MfFad" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UnsplushDiplom" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0263f7fd-5e4b-402a-ad0a-86006cea720e" name="Changes" comment="" />
+      <created>1652952799818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652952799818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

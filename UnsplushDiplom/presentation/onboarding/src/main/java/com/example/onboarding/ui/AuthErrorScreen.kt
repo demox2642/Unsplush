@@ -9,7 +9,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.base_ui.dialogs.CustomErrorDialog
-import com.example.onboarding.R
+import com.example.presentation.onboarding.R
 import java.lang.System.exit
 
 @Preview

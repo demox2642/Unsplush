@@ -1,6 +1,10 @@
 package com.example.unsplushdiplom.di
 
 import android.content.Context
+import com.example.home.repository.HomeRepository
+import com.example.home.reposutory.HomeRepositoryImp
+import com.example.home.reposutory.UnsplashResponseHandler
+import com.example.home.services.HomeService
 import com.example.services.AuthService
 import com.example.services.AuthenticationInterceptor
 import com.example.user.models.Constants
@@ -64,16 +68,23 @@ class DataModule {
         return UserRepositoryImpl(userStorage = userStorage)
     }
 
-//    @Singleton
-//    @Provides
-//    fun provideAuthRepository(authStorage: AuthStorage): AuthRepository {
-//        return AuthRepositoryImpl(authStorage = authStorage)
-//    }
+    @Singleton
+    @Provides
+    fun provideHomeRepository(homeService: HomeService): HomeRepository {
+        return HomeRepositoryImp(homeService = homeService, responseHandler = UnsplashResponseHandler())
+    }
 
     @Singleton
     @Provides
     fun provideAuthApi(retrofit: Retrofit.Builder): AuthService {
         return retrofit.build()
             .create(AuthService::class.java)
+    }
+
+    @Singleton
+    @Provides
+    fun provideHomeService(retrofit: Retrofit.Builder): HomeService {
+        return retrofit.build()
+            .create(HomeService::class.java)
     }
 }

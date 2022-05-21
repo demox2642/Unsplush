@@ -37,6 +37,7 @@ android {
          kotlinCompilerVersion = "1.6.21"
         kotlinCompilerExtensionVersion = Versions.compose
     }
+    namespace = "com.example.base_ui"
 }
 
 dependencies {

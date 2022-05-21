@@ -1,5 +1,7 @@
 package com.example.unsplushdiplom.di
 
+import com.example.home.repository.HomeRepository
+import com.example.home.usecase.GetPhotosListUserCase
 import com.example.services.AuthService
 import com.example.user.repository.AuthRepository
 import com.example.user.repository.AuthRepositoryImpl
@@ -46,5 +48,10 @@ class DomainModule {
     @Provides
     fun providesUserRepository(api: AuthService): AuthRepository {
         return AuthRepositoryImpl(api)
+    }
+
+    @Provides
+    fun provadesGetPhotosListUserCase(homeRepository: HomeRepository): GetPhotosListUserCase{
+        return GetPhotosListUserCase(homeRepository = homeRepository)
     }
 }

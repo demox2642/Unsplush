@@ -36,6 +36,7 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = Versions.compose
     }
+    namespace = "com.example.profile"
 }
 
 

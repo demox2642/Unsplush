@@ -14,10 +14,16 @@ object Modules {
         const val NETWORK = ":domain:network"
         const val AUTH = ":domain:auth"
         const val USER = ":domain:user"
+        const val COLLECTIONS = ":domain:collections"
+        const val HOME = ":domain:home"
+        const val PROFILE = ":domain:profile"
     }
 
     object Data {
         const val NETWORK = ":data:network"
         const val USER = ":data:user"
+        const val COLLECTIONS = ":data:collections"
+        const val HOME = ":data:home"
+        const val PROFILE = ":data:profile"
     }
 }

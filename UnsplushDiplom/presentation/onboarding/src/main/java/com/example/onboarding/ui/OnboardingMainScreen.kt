@@ -20,7 +20,7 @@ import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.base_ui.theme.AppTheme
 import com.example.base_ui.topbar.AppTopBarNav
-import com.example.onboarding.R
+import com.example.presentation.onboarding.R
 import com.example.user.models.Constants.SPLASH_CODE_URL
 import com.example.user.models.Constants.SPLASH_KEY
 import com.example.user.models.Constants.SPLASH_LOGIN_CALLBACK

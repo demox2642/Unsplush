@@ -25,7 +25,6 @@
             <option value="$PROJECT_DIR$/domain/profile" />
             <option value="$PROJECT_DIR$/domain/user" />
             <option value="$PROJECT_DIR$/presentation" />
-            <option value="$PROJECT_DIR$/presentation/auth" />
             <option value="$PROJECT_DIR$/presentation/base-ui" />
             <option value="$PROJECT_DIR$/presentation/collections" />
             <option value="$PROJECT_DIR$/presentation/home" />
