@@ -28,7 +28,7 @@ class UnsplashResponseHandler {
                 UnsplashResource.Error("Timeout")
             }
             else -> {
-                UnsplashResource.Error("Unknown Error")
+                UnsplashResource.Error("Unknown Error: $e")
             }
         }
     }

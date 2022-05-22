@@ -1,5 +1,6 @@
 package com.example.unsplushdiplom.ui
 
+import android.util.Log
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.defaultMinSize
 import androidx.compose.foundation.layout.fillMaxSize
@@ -30,6 +31,7 @@ fun UnsplashMainScreen() {
     val navController = rememberNavController()
     val onboardingState = viewModel.onboardingState.collectAsState()
     val haveToken = viewModel.haveToken.collectAsState()
+    Log.e("UnsplashMainScreen","onboardingState = $onboardingState  haveToken = $haveToken")
 
     Scaffold(
         bottomBar = { BottomNav(navController) }
@@ -45,9 +47,11 @@ fun UnsplashMainScreen() {
                     MainScreen.Home.route
                 } else {
 
-                    if (!haveToken.value) {
+                    if (haveToken.value) {
+                        Log.e("UnsplashMainScreen","true")
                         OnboardingScreens.AuthErrorScreen.route
                     } else {
+                        Log.e("UnsplashMainScreen","false")
                         OnboardingScreens.OnboardingMain.route
                     }
                 }

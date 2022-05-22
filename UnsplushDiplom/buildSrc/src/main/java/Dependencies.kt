@@ -10,7 +10,7 @@ object AndroidX {
     const val composeMaterialIconsExtended = "androidx.compose.material:material-icons-extended:${Versions.compose}"
     const val workRuntime = "androidx.work:work-runtime-ktx:${Versions.workVersion}"
     const val composeConstraint = "androidx.constraintlayout:constraintlayout-compose:${Versions.condtraint}"
-  //  const val constraint = "androidx.constraintlayout:constraintlayout:${Versions.condtraint}"
+    const val paging = "androidx.paging:paging-runtime:${Versions.pagingVersion}"
     fun getAll() = AndroidX::class.memberProperties
         .filter { it.isConst }
         .map { it.getter.call().toString() }

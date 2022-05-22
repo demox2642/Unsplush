@@ -13,4 +13,5 @@ object Versions {
     const val kotlinCoroutinesAndroidVersion = "1.4.2"
     const val kotlinCoroutinesCore = "1.6.1"
     const val viewModelKtxVersion = "2.2.0"
+    const val pagingVersion = "3.0.1"
 }

@@ -20,10 +20,11 @@ class HomeMainScreenViewModel @Inject constructor(
 
     fun getPhotosList() {
         Log.e("HomeVM", "photos ")
-        viewModelScope.launch { try {
-            val photos = getPhotosListUserCase.getPhotosList(1, 10, Order.LATEST)
-            Log.e("HomeVM", "photos = $photos")
-        } catch (e: Exception) {
+        viewModelScope.launch {
+            try {
+                val photos = getPhotosListUserCase.getPhotosList(1, 10, Order.LATEST)
+                Log.e("HomeVM", "photos = ${photos.errorMessage} data = ${photos.data}")
+            } catch (e: Exception) {
                 Log.e("HomeVM", "getPhotosList ERROR : ${e.message}")
             }
         }

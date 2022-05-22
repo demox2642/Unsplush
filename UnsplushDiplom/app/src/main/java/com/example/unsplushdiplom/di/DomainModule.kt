@@ -26,7 +26,7 @@ class DomainModule {
     }
 
     @Provides
-    fun provideSaveOnboardingStateUserCase(userRepository: UserRepository): SaveOnboardingStateUserCase{
+    fun provideSaveOnboardingStateUserCase(userRepository: UserRepository): SaveOnboardingStateUserCase {
         return SaveOnboardingStateUserCase(userRepository = userRepository)
     }
 
@@ -46,12 +46,17 @@ class DomainModule {
     }
 
     @Provides
+    fun providesAuthInterceptor(userRepository: UserRepository): AuthInterceptor {
+        return AuthInterceptor(userRepository = userRepository)
+    }
+
+    @Provides
     fun providesUserRepository(api: AuthService): AuthRepository {
         return AuthRepositoryImpl(api)
     }
 
     @Provides
-    fun provadesGetPhotosListUserCase(homeRepository: HomeRepository): GetPhotosListUserCase{
+    fun providesGetPhotosListUserCase(homeRepository: HomeRepository): GetPhotosListUserCase {
         return GetPhotosListUserCase(homeRepository = homeRepository)
     }
 }

@@ -6,7 +6,7 @@ object Constants {
     const val SPLASH_LOGIN_CALLBACK = "splash://splash-auth-callback"
     const val SPLASH_CODE_URL = "https://unsplash.com/oauth/authorize"
     const val SPLASH_OAUTH_TOKEN_URL = "https://unsplash.com/oauth/token"
-    const val oauthBase = "https://unsplash.com/"
+    const val oauthBase = "https://api.unsplash.com"//"https://unsplash.com/"
     const val GRANT_TYPE = "authorization_code"
     const val like = "LIKE"
     const val timeOut = 30L

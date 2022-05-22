@@ -2,8 +2,9 @@ package com.example.user.repository
 
 import com.example.user.models.Token
 import com.example.user.storage.UserStorage
+import javax.inject.Inject
 
-class UserRepositoryImpl(private val userStorage: UserStorage) : UserRepository {
+class UserRepositoryImpl @Inject constructor(private val userStorage: UserStorage) : UserRepository {
 
     override fun saveOnboardingState() {
         userStorage.saveState()
